@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My RSS Feed</title>
+    <link>https://<tu-usuario>.github.io/rss-feed/</link>
+    <description>A simple RSS feed example</description>
+    <item>
+      <title>First Item</title>
+      <link>https://<tu-usuario>.github.io/rss-feed/first-item</link>
+      <description>This is the first item in my RSS feed.</description>
+    </item>
+    <item>
+      <title>Second Item</title>
+      <link>https://<tu-usuario>.github.io/rss-feed/second-item</link>
+      <description>This is the second item in my RSS feed.</description>
+    </item>
+  </channel>
+</rss>
