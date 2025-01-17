@@ -1,18 +1,13 @@
-<?xml version= "1.0" encoding= "UTF-8"?>
-<rss version= "2.0">
- <channel>
-  <title>W3Schools Home Page</title>
-  <link>http://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
-  <item>
-   <title>RSS Tutorial</title>
-   <link>http://www.w3schools.com/rss</link>
-   <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-   <title>XML Tutorial</title>
-   <link>http://www.w3schools.com/xml</link>
-   <description>New XML tutorial on W3Schools</description>
-  </item> 
-  </channel>
-</rss>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Example</title>
+</head>
+<body>
+    <h1>Welcome to My RSS Feed</h1>
+    <p>Click the link below to access the RSS feed:</p>
+    <a href="feed.xml" target="_blank">RSS Feed</a>
+</body>
+</html>
